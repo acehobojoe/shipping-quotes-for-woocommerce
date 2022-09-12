@@ -70,6 +70,6 @@ if ( $order_details ) :
 
 <p><?php esc_html_e( 'This order is awaiting a quote.', 'quote-wc' ); ?></p>
 
-<p><?php esc_html_e( 'You shall receive a quote email from the site admin soon.', 'quote-wc' ); ?></p>
+<p><?php esc_html_e( 'You will receive a quote email from the site admin soon.', 'quote-wc' ); ?></p>
 
 <?php do_action( 'woocommerce_email_footer' ); ?>
